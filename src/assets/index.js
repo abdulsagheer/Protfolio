@@ -37,12 +37,18 @@ import tripguide from "./tripguide.png";
 import amazon from "./projects/amazon.png";
 import real from "./projects/real.png";
 import stock from "./projects/stock.png";
+import udemy from "./projects/udemy.png";
+import facebook from "./projects/facebook.png";
+import car from "./projects/car.png";
 
 import aman from "./testimonial/aman.jpg";
 import kanika from "./testimonial/kanika.jpg";
 import saqib from "./testimonial/saqib.jpg";
 
 export {
+	facebook,
+	car,
+	udemy,
 	amazon,
 	real,
 	stock,

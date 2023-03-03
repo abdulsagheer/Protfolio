@@ -27,6 +27,9 @@ import {
 	aman,
 	kanika,
 	saqib,
+	udemy,
+	facebook,
+	car,
 } from "../assets";
 
 export const navLinks = [
@@ -252,7 +255,7 @@ const projects = [
 		source_code_link: "https://github.com/abdulsagheer/MERN-Real-Estate",
 	},
 	{
-		name: "Trip Guide",
+		name: "Stock Exchange System",
 		description:
 			"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
 		tags: [
@@ -275,6 +278,82 @@ const projects = [
 		],
 		image: stock,
 		source_code_link: "https://github.com/abdulsagheer/Stock-Exchange-App",
+	},
+	{
+		name: "Eth Course Marketplace",
+		description:
+			"Developed an Ethereum marketplace for buying a Programming course and to Learn programming and web development the easy way!",
+		tags: [
+			{
+				name: "nextjs",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "web3js",
+				color: "green-text-gradient",
+			},
+			{
+				name: "tailwindcss",
+				color: "pink-text-gradient",
+			},
+			{
+				name: "truffle",
+				color: "green-text-gradient",
+			},
+		],
+		image: udemy,
+		source_code_link:
+			"https://github.com/abdulsagheer/Ethereum-Course-Marketplace",
+	},
+	{
+		name: "Facebook",
+		description:
+			"A comprehensive Facebook social media web app to post the items, save the post, add story, search profile, and send/accept friend request to share memories and happiness",
+		tags: [
+			{
+				name: "reactjs",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "nodejs",
+				color: "green-text-gradient",
+			},
+			{
+				name: "mongodb",
+				color: "pink-text-gradient",
+			},
+			{
+				name: "express",
+				color: "green-text-gradient",
+			},
+		],
+		image: facebook,
+		source_code_link: "https://github.com/abdulsagheer/Facebook",
+	},
+	{
+		name: "Car Booking System",
+		description:
+			"A comprehensive car booking platform that allows users to rental cars, and offers curated recommendations for popular cars.",
+		tags: [
+			{
+				name: "reactjs",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "nestjs",
+				color: "green-text-gradient",
+			},
+			{
+				name: "mysql",
+				color: "pink-text-gradient",
+			},
+			{
+				name: "typescript",
+				color: "green-text-gradient",
+			},
+		],
+		image: car,
+		source_code_link: "https://github.com/abdulsagheer/Car-Booking-System",
 	},
 ];
 
