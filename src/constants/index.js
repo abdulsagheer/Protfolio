@@ -170,7 +170,7 @@ const experiences = [
 		points: [
 			"Developed End to End Ecommerce Website for a client with all the functionalities like Buy/Sell with admin dashboard.",
 			"Developed an NFT Marketplace with Minting. Staking and Unstaking and storing tokens with its Meta data in the backend.",
-			"mplemented these and some more projects in Tech Stack Like MERN Stack with Typescript, AWS, and Docker with quality code.",
+			"Implemented these and some more projects in Tech Stack Like MERN Stack with Typescript, AWS, and Docker with quality code.",
 			"Implementing responsive design and ensuring cross-browser compatibility.",
 		],
 	},
